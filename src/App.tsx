@@ -1,6 +1,4 @@
-// App.tsx
 import { useState, useEffect } from 'react';
-import React from 'react';
 import InputTask from './InputTask.tsx'; 
 import ShowTask from './ShowTask.tsx';  
 
