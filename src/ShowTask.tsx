@@ -1,4 +1,3 @@
-import React from "react";
 type ShowTaskProps = {
   tasks: string[];                
   isCompleted?: boolean;        
